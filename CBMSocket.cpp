@@ -1,13 +1,3 @@
-/*
- * @Copyright (c) 2023,  公司名称 : 湖南德米特仪器有限公司
- * @file name:
- * @version: V1.0.1
- * @Date: 2023-09-13
- * @content:
- * @todo:
- * @Author: 陈田力
- */
-
 #ifndef unix
 #include <windows.h>
 #include <winsock.h>
